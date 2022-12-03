@@ -1,0 +1,11 @@
+.small-picture {
+  height: 90px;
+  width: 90px;
+}
+.li-container {
+  margin: 0.5px;
+}
+.button {
+  background-color: none;
+  border-style: none;
+}
